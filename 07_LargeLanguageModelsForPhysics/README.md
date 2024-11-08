@@ -1,1 +1,1 @@
-# Large Language Models for Physics
+# Physics Applications of Large Language Models
