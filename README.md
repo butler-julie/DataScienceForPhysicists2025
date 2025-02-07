@@ -1,7 +1,7 @@
 # Short Course on Data Science for Physicists
 Code and lecture materials for the "Data Science for Physicists" short course held at the [2025 APS Global Physics Summit](https://summit.aps.org).
 
-This short course is co-sponsored by [the Topical Group on Data Science (GDS)](https://engage.aps.org/gds/home), [the Division of Computational Physics (DCOMP)](https://engage.aps.org/dcomp/home), [the Division of Soft Matter (DSOFT)](https://engage.aps.org/dsoft/home), [the Division of Particles and Fields (DPF)[(https://engage.aps.org/dpf/home), and [the Division of Biological Physics (DBIO)](https://engage.aps.org/dbio/home).
+This short course is co-sponsored by [the Topical Group on Data Science (GDS)](https://engage.aps.org/gds/home), [the Division of Computational Physics (DCOMP)](https://engage.aps.org/dcomp/home), [the Division of Soft Matter (DSOFT)](https://engage.aps.org/dsoft/home), [the Division of Particles and Fields (DPF)](https://engage.aps.org/dpf/home), and [the Division of Biological Physics (DBIO)](https://engage.aps.org/dbio/home).
 
 The schedule for the short course is available [here](schedule.md).
 
