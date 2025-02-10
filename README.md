@@ -29,4 +29,4 @@ Data science is playing an ever-increasing role in physics. In this two-day tuto
 * Cormac Toher ([The University of Texas at Dallas](https://www.utdallas.edu)), Assessing Training Data: Material Data APIs
 * Jane Kim ([Ohio University](https://www.ohio.edu)), Introduction to neural-network quantum states
 * Sean A. Ridout ([Emory Univeristy](https://www.emory.edu)), Using Data Science to Understand Complexity in Soft Matter Systems
-* Srinivasa Turaga ([HHMI Janelia Research Campus](https://www.janelia.org)), Applications of Machine Learning to Biology
+* [Srini Turaga](https://www.janelia.org/lab/turaga-lab) ([HHMI Janelia Research Campus](https://www.janelia.org)), Applications of Machine Learning to Biology
