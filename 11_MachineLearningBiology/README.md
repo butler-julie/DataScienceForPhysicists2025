@@ -9,11 +9,10 @@ In this lecture, I will describe recent work using AI methods to build (bio-) ph
 https://github.com/TuragaLab/flyvis
 
 # `flybody`: fruit fly body model for MuJoCo physics
-[![preprint](https://img.shields.io/badge/preprint-bioRxiv-B31B1B)][paper]
-
+[![preprint](https://img.shields.io/badge/preprint-bioRxiv-B31B1B)][https://www.biorxiv.org/content/10.1101/2024.03.11.584515v2]
 <img src="https://github.com/TuragaLab/flybody/blob/main/fly-white.png" width="65%">
 
-[![preprint](https://img.shields.io/badge/preprint-bioRxiv-B31B1B)][paper]
+
 Vaxenburg et al., “Whole-body physics simulation of fruit fly locomotion” Nature (in press).
 
 https://github.com/TuragaLab/flybody
