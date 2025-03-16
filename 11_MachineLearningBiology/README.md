@@ -2,7 +2,7 @@
 
 ### [Srini Turaga](https://www.janelia.org/lab/turaga-lab) ([HHMI Janelia Research Campus](https://www.janelia.org/))
 
-[![Slides](https://img.shields.io/badge/Slides-Presentation-green?logo=microsoft-powerpoint&logoColor=white)](https://www.dropbox.com/scl/fi/h1r24f3cikh8xnxubyrmx/2025_03_flyvis_flybody_APS_GDS.pdf?rlkey=mq4h4z8fpep4av7kohr4t4k4l&st=3fg0r2sv&dl=0)
+[![PDF Slides](https://img.shields.io/badge/PDF-Slides-red?logo=adobe-acrobat-reader&logoColor=white)](https://www.dropbox.com/scl/fi/h1r24f3cikh8xnxubyrmx/2025_03_flyvis_flybody_APS_GDS.pdf?rlkey=mq4h4z8fpep4av7kohr4t4k4l&st=3fg0r2sv&dl=0)
 
 This will describe recent work using AI methods to build (bio-) physical models of the fruit fly nervous system and body.
 
