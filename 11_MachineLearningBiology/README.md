@@ -7,7 +7,7 @@ In this lecture, I will describe recent work using AI methods to build (bio-) ph
 ## `flyvis`: a connectome model of the fruit fly visual system
 <img src="https://github.com/TuragaLab/flyvis/blob/main/docs/docs/images/flyvis_logo_light@150ppi.webp" width="25%" alt="Flyvis Logo">
 
-Lappalainen et al., "Connectome-constrained networks predict neural activity across the fly visual system." Nature (2024) [link](https://www.nature.com/articles/s41586-024-07939-3)
+Lappalainen et al., "Connectome-constrained networks predict neural activity across the fly visual system." Nature (2024)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/TuragaLab/flyvis)
 [![Nature](https://img.shields.io/badge/Nature-Paper-blue?logo=read-the-docs&logoColor=white)](https://www.nature.com/articles/s41586-024-07939-3)
