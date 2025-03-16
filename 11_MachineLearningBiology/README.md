@@ -10,6 +10,7 @@ In this lecture, I will describe recent work using AI methods to build (bio-) ph
 Lappalainen et al., "Connectome-constrained networks predict neural activity across the fly visual system." Nature (2024) [link](https://www.nature.com/articles/s41586-024-07939-3)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/TuragaLab/flyvis)
+[![Nature](https://img.shields.io/badge/Nature-Paper-blue?logo=read-the-docs&logoColor=white)](https://www.nature.com/articles/s41586-024-07939-3)
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-Preprint-red?logo=bioRxiv&logoColor=white)](https://www.biorxiv.org/content/10.1101/2023.03.11.532232)
 
 
