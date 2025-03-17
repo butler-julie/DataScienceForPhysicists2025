@@ -6,7 +6,7 @@
 
 This will describe recent work using AI methods to build (bio-) physical models of the fruit fly nervous system and body.
 
-## `flyvis`: a connectome model of the fruit fly visual system
+## `flyvis`: connectome model of the fruit fly visual system
 <img src="https://github.com/TuragaLab/flyvis/blob/main/docs/docs/images/flyvis_logo_light@150ppi.webp" width="25%" alt="Flyvis Logo">
 
 Lappalainen et al., "Connectome-constrained networks predict neural activity across the fly visual system" Nature (2024).
@@ -16,7 +16,7 @@ Lappalainen et al., "Connectome-constrained networks predict neural activity acr
 [![bioRxiv](https://img.shields.io/badge/bioRxiv-Preprint-red?logo=bioRxiv&logoColor=white)](https://www.biorxiv.org/content/10.1101/2023.03.11.532232)
 
 
-## `flybody`: fruit fly body model for MuJoCo physics
+## `flybody`: physics simulation of the fruit fly body
 <img src="https://github.com/TuragaLab/flybody/blob/main/fly-white.png" width="25%">
 
 
